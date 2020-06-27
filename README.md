@@ -1,0 +1,2 @@
+# YOUTUBE-SPAM-COMMENTS-DETECTION
+The aim of the project is to predict the accuracy of spam comments in YouTube by precision, recall, f1-score, and support. Here we detect such comments by applying machine learning algorithms such as random forest and logistic regression. The dataset contains 4 attributes comment_id, author, date and class from different videos. The python libraries used are scikit-learn pandas (to load external dataset), numpy, seaborn, matplotlib.pyplot, missingno. 
